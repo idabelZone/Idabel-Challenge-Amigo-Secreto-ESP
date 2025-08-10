@@ -30,9 +30,6 @@ Este proyecto no requiere instalación de dependencias adicionales. Está desarr
 
 ## Posibles problemas y soluciones
 
-- **El botón "Añadir" no funciona:**  
-  Verifica que el archivo `app.js` esté correctamente vinculado en el archivo `index.html`.
-
 - **No se pueden añadir nombres vacíos:**  
   El sistema alerta si intentas agregar un nombre vacío, por favor escribe un nombre válido antes de añadir.
 
